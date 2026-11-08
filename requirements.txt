@@ -1,0 +1,5 @@
+streamlit>=1.57
+numpy
+pandas
+scikit-learn
+torch
